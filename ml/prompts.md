@@ -21,6 +21,16 @@ Seguindo os combinados da GS (slide 21), registramos aqui como a IA foi usada ne
 | Visualização | Gráficos com a paleta HeatSafe (laranja e azul, testados para daltonismo) | O que cada figura mostra |
 | Textos | Rascunho do relatório, do README e do roteiro do vídeo | Toda a conclusão para o cidadão |
 
+## Prompts seguintes
+
+> Eu preciso criar um repositório no GitHub também; caso não tenha feito, pode fazer com o nome "2GS_IA_ML".
+
+A IA criou o repositório público `fbraunstein/2GS_IA_ML`, com `.gitignore` (sem a cópia original dos dados) e `.gitattributes` (os CSVs brutos do INMET ficam byte a byte iguais aos originais).
+
+> Agora confere tudo 100%: veja o que está ok e o que não está; o que não precisa, pode apagar; o que falta, complemente.
+
+A IA auditou o repositório contra os slides 31–33 e corrigiu: o relatório, que dava 5 páginas A4 (medido gerando o PDF), passou a ter 4; a imagem da capa do notebook agora usa um link absoluto, para aparecer no GitHub; um gráfico tinha rótulos sobrepostos; uma frase sobre o F2 estava imprecisa; o roteiro terminava exatamente em 5:00; e a Dona Maria, a Ana e a Rosa passaram a ser apresentadas explicitamente como **personas fictícias**, como diz o documento de entrevistas do grupo.
+
 ## Tentativa registrada
 
 A IA tentou baixar dados de estações vizinhas do INMET (para o modelo "enxergar" frentes frias), mas o portal recusa downloads automatizados. Ficou como próximo passo no relatório: o grupo pode baixar os arquivos anuais manualmente em https://portal.inmet.gov.br/dadoshistoricos.
