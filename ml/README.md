@@ -14,7 +14,7 @@
 | Gustavo Henrique Martins | RM556956 |
 
 **Entregas desta disciplina:**
-📓 [Notebook executado](heatsafe_previsao_dia_perigoso.ipynb) · 📄 [Relatório (RELATORIO_ML.md)](RELATORIO_ML.md) · 🗂️ [Dados (dados/README.md)](dados/README.md) · 🎬 Vídeo: **[adicionar o link do YouTube (não listado)]**
+📓 [Notebook executado](heatsafe_previsao_dia_perigoso.ipynb) · 📄 [Relatório (RELATORIO_ML.md)](RELATORIO_ML.md) · 🗂️ [Dados (dados/README.md)](dados/README.md) · 🎬 [Vídeo no YouTube](https://youtu.be/fC9X_KEJjqw)
 
 ---
 
