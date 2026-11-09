@@ -1,0 +1,2 @@
+# arquivos originais do INMET: manter byte a byte, sem conversão de fim de linha
+ml/dados/brutos/** -text

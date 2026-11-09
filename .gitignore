@@ -1,0 +1,15 @@
+# cópia original dos dados (o conteúdo usado está em ml/dados/)
+/dados/
+__MACOSX/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# sistema
+.DS_Store
+Thumbs.db
+desktop.ini
