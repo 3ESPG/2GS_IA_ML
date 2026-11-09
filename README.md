@@ -53,7 +53,7 @@ Nos dias de calor extremo, **idosos que passam o dia sozinhos em casas quentes p
 
 | Entrega | Onde está |
 |---|---|
-| 🎬 Vídeo de apresentação (até 5 min) | [youtu.be/fC9X_KEJjqw](https://youtu.be/fC9X_KEJjqw) |
+| 🎬 Vídeo de apresentação (até 5 min) | [`youtu.be/fC9X_KEJjqw`](https://youtu.be/fC9X_KEJjqw) |
 | 📓 Notebook executado, com todas as saídas | [`ml/heatsafe_previsao_dia_perigoso.ipynb`](ml/heatsafe_previsao_dia_perigoso.ipynb) |
 | 📄 Relatório (do problema à conclusão) | [`ml/RELATORIO_ML.md`](ml/RELATORIO_ML.md) |
 | 🗂️ Dados: fonte, link, período e tratamento | [`ml/dados/README.md`](ml/dados/README.md) |
