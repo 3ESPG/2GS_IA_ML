@@ -21,6 +21,6 @@ Tudo está na pasta **[`ml/`](ml/)**:
 - 📄 **Relatório:** [`ml/RELATORIO_ML.md`](ml/RELATORIO_ML.md)
 - 🗂️ **Dados (fonte, link e período):** [`ml/dados/README.md`](ml/dados/README.md)
 - 📦 **Dependências:** [`ml/requirements.txt`](ml/requirements.txt)
-- 🎬 **Vídeo (YouTube, não listado):** **[adicionar o link]**
+- 🎬 **Vídeo:** **[https://youtu.be/LVkiPz6H8ko]**
 
 Instruções de execução, Ficha da CitizenTech e resultados: [`ml/README.md`](ml/README.md).
