@@ -29,6 +29,8 @@
 | **Como funciona** | Um dispositivo com ESP32 dentro da casa mede o calor e detecta movimento. Se a casa está perigosa e o idoso fica parado ou sem beber água, a família é avisada; sem resposta, o caso vai para a lista de visitas da UBS. **Um modelo de ML prevê os dias perigosos na véspera** (esta pasta). |
 | **O que esta parte faz** | Prevê às 19h se amanhã o índice de calor máximo vai chegar a 30 °C, e liga o modo vigilância |
 | **Indicador de impacto (ML)** | % de dias perigosos avisados na véspera (**90% no teste**) · % dos avisos que se confirmam · alarmes falsos por ano |
+| **O que cada parte faz** | **App Expo (Mobile):** família e agente da UBS acompanham alertas e confirmam visitas · **ESP32 no Wokwi (IoT/IoB):** mede o calor e o movimento dentro da casa e registra a água bebida · **API C# (.NET):** cadastros, leituras, alertas e escalonamento para a UBS · **Serviço SOA (Java/Spring):** previsão do dia perigoso para a API · **ML:** modelo Random Forest com dados do INMET que prevê o dia perigoso · **Cybersecurity:** SentinelaSAST audita o código para os dados de saúde e rotina não vazarem · **Operating Systems:** infraestrutura Linux que hospeda a solução · **Testing:** features e casos de teste no Azure Boards |
+| **Link do repositório** | **https://github.com/3ESPG/2GS_IA_ML** · demais partes: [Mobile](https://github.com/3ESPG/GS-HeatSafe-mobile) · [SOA](https://github.com/3ESPG/GS-HeatSafe-SOA) · [C#](https://github.com/GustavooHM/HeatSafe-Backend) · [IoT](https://github.com/3ESPG/2GS_IoT_IoB) |
 | **ODS conectados** | 3 (meta 3.d) · 13 (meta 13.1) · 11 · 10 |
 
 ## Resultados em uma tabela
